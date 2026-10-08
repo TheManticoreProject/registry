@@ -8,7 +8,7 @@ import (
 	ms_rrp "github.com/TheManticoreProject/Manticore/network/dcerpc/ms-protocols/ms-rrp"
 	"github.com/TheManticoreProject/Manticore/network/dcerpc/ndr"
 	"github.com/TheManticoreProject/Manticore/windows/credentials"
-	"github.com/TheManticoreProject/manticore-registry/utils"
+	"github.com/TheManticoreProject/registry/utils"
 )
 
 // Run recursively copies a registry key (its values and its whole subtree) from a

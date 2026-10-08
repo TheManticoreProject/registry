@@ -9,7 +9,7 @@ import (
 	"github.com/TheManticoreProject/Manticore/network/dcerpc/ndr"
 	"github.com/TheManticoreProject/Manticore/windows/credentials"
 	"github.com/TheManticoreProject/Manticore/windows/registry/regfile"
-	"github.com/TheManticoreProject/manticore-registry/utils"
+	"github.com/TheManticoreProject/registry/utils"
 )
 
 // Run recursively exports a registry key and its subtree from the remote machine to a

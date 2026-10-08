@@ -6,7 +6,7 @@ import (
 	"github.com/TheManticoreProject/Manticore/logger"
 	ms_rrp "github.com/TheManticoreProject/Manticore/network/dcerpc/ms-protocols/ms-rrp"
 	"github.com/TheManticoreProject/Manticore/windows/credentials"
-	"github.com/TheManticoreProject/manticore-registry/utils"
+	"github.com/TheManticoreProject/registry/utils"
 )
 
 // Run restores a hive file on the remote machine into an existing registry key,

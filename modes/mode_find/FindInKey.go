@@ -8,7 +8,7 @@ import (
 	"github.com/TheManticoreProject/Manticore/logger"
 	ms_rrp "github.com/TheManticoreProject/Manticore/network/dcerpc/ms-protocols/ms-rrp"
 	"github.com/TheManticoreProject/Manticore/network/dcerpc/ndr"
-	"github.com/TheManticoreProject/manticore-registry/utils"
+	"github.com/TheManticoreProject/registry/utils"
 )
 
 // registryEnumerator is the slice of the remote registry a search needs: the values and the

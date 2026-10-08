@@ -24,7 +24,7 @@ import (
 	ms_rrp "github.com/TheManticoreProject/Manticore/network/dcerpc/ms-protocols/ms-rrp"
 	"github.com/TheManticoreProject/Manticore/network/dcerpc/ndr"
 	"github.com/TheManticoreProject/Manticore/windows/credentials"
-	"github.com/TheManticoreProject/manticore-registry/utils"
+	"github.com/TheManticoreProject/registry/utils"
 )
 
 // monitoredValue is one value as recorded in a snapshot: the name as the server spelled it,

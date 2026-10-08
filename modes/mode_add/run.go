@@ -4,7 +4,7 @@ import (
 	"github.com/TheManticoreProject/Manticore/network/dcerpc/ndr"
 	"github.com/TheManticoreProject/Manticore/windows/credentials"
 
-	"github.com/TheManticoreProject/manticore-registry/utils"
+	"github.com/TheManticoreProject/registry/utils"
 )
 
 // Run executes the "add" mode. When a value-type flag is supplied it sets that typed value;

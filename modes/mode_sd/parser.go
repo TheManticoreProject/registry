@@ -5,7 +5,7 @@ import (
 
 	"github.com/TheManticoreProject/Manticore/logger"
 	"github.com/TheManticoreProject/goopts/parser"
-	"github.com/TheManticoreProject/manticore-registry/cli"
+	"github.com/TheManticoreProject/registry/cli"
 )
 
 // SetupSubParser registers the "sd" subcommand and its argument groups on ap, binding every

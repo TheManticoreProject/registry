@@ -1,4 +1,4 @@
-module github.com/TheManticoreProject/manticore-registry
+module github.com/TheManticoreProject/registry
 
 go 1.24.0
 

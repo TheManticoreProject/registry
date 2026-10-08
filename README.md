@@ -3,9 +3,9 @@
 <p align="center">
       A tool to read, write, search, back up, compare, secure, and live-monitor the Windows registry (keys, values, and ACLs) on remote hosts over MS-RRP (the Remote Registry protocol, <code>\winreg</code> over DCE/RPC over SMB).
       <br>
-      <a href="https://github.com/TheManticoreProject/manticore-registry/actions/workflows/release.yaml" title="Build"><img alt="Build and Release" src="https://github.com/TheManticoreProject/manticore-registry/actions/workflows/release.yaml/badge.svg"></a>
-      <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/TheManticoreProject/manticore-registry">
-      <img alt="Go Report Card" src="https://goreportcard.com/badge/github.com/TheManticoreProject/manticore-registry">
+      <a href="https://github.com/TheManticoreProject/registry/actions/workflows/release.yaml" title="Build"><img alt="Build and Release" src="https://github.com/TheManticoreProject/registry/actions/workflows/release.yaml/badge.svg"></a>
+      <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/TheManticoreProject/registry">
+      <img alt="Go Report Card" src="https://goreportcard.com/badge/github.com/TheManticoreProject/registry">
       <a href="https://twitter.com/intent/follow?screen_name=podalirius_" title="Follow"><img src="https://img.shields.io/twitter/follow/podalirius_?label=Podalirius&style=social"></a>
       <a href="https://www.youtube.com/c/Podalirius_?sub_confirmation=1" title="Subscribe"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCF_x5O7CSfr82AfNVTKOv_A?style=social"></a>
       <br>
@@ -48,10 +48,10 @@
 
 ## Installation
 
-To get this tool you can either download the latest release from the [GitHub release page](https://github.com/TheManticoreProject/manticore-registry/releases) or install it with the following `go` command:
+To get this tool you can either download the latest release from the [GitHub release page](https://github.com/TheManticoreProject/registry/releases) or install it with the following `go` command:
 
 ```bash
-go install github.com/TheManticoreProject/manticore-registry@latest
+go install github.com/TheManticoreProject/registry@latest
 ```
 
 ## Demonstration
@@ -355,4 +355,4 @@ Usage: manticore-registry query [--debug] [--domain <string>] --username <string
 Pull requests are welcome. Feel free to open an issue if you want to add other features.
 
 ## Credits
-  - [Remi GASCOU (Podalirius)](https://github.com/p0dalirius) for the creation of the [manticore-registry](https://github.com/TheManticoreProject/manticore-registry) project.
+  - [Remi GASCOU (Podalirius)](https://github.com/p0dalirius) for the creation of the [manticore-registry](https://github.com/TheManticoreProject/registry) project.
