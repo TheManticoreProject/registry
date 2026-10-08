@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	ms_rrp "github.com/TheManticoreProject/Manticore/network/dcerpc/ms-protocols/ms-rrp"
-	"github.com/TheManticoreProject/manticore-registry/utils"
+	"github.com/TheManticoreProject/registry/utils"
 )
 
 func TestMatcherMatchModes(t *testing.T) {
